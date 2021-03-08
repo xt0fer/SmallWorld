@@ -21,6 +21,8 @@ Very very slow :) SmallWorld is a very simple bytecode interpreter running on to
 
 ## What has changed?
 
+kyounger making changes.
+
 ### Version 2015.1 (February 2015)
 
 * Code dumped on Github
